@@ -17,6 +17,8 @@
   "frontend.js": "js/frontend.min.js",
   "pageNotFound.css": "css/pageNotFound.min.css",
   "pageNotFound.js": "js/pageNotFound.min.js",
+  ".htaccess": ".htaccess",
+  "404.html": "404.html",
   "fonts/Hind-Bold.eot": "fonts/Hind-Bold.eot",
   "fonts/Hind-Bold.ttf": "fonts/Hind-Bold.ttf",
   "fonts/Hind-Bold.woff": "fonts/Hind-Bold.woff",
@@ -77,5 +79,18 @@
   "fonts/slick.ttf": "fonts/slick.ttf",
   "fonts/slick.woff": "fonts/slick.woff",
   "images/ajax-loader.gif": "images/ajax-loader.gif",
-  "images/slick.svg": "images/slick.svg"
+  "images/banner-1.jpg": "images/banner-1.jpg",
+  "images/banner-2.jpg": "images/banner-2.jpg",
+  "images/banner-3.jpg": "images/banner-3.jpg",
+  "images/favicon.svg": "images/favicon.svg",
+  "images/imani-bahati-LxVxPA1LOVM-unsplash.png": "images/imani-bahati-LxVxPA1LOVM-unsplash.png",
+  "images/product-1.jpg": "images/product-1.jpg",
+  "images/product-2.jpg": "images/product-2.jpg",
+  "images/product-3.jpg": "images/product-3.jpg",
+  "images/product-4.jpg": "images/product-4.jpg",
+  "images/slick.svg": "images/slick.svg",
+  "images/star-border.svg": "images/star-border.svg",
+  "images/star-color.svg": "images/star-color.svg",
+  "index.html": "index.html",
+  "robots.txt": "robots.txt"
 }
