@@ -10,7 +10,7 @@ ErrorDocument 404 /404.html
 RewriteEngine on
 RewriteBase /
 RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /([^.]+)\.html\ HTTP
-RewriteRule ^([^.]+)\.html$ http://www.static.d-k.marketing.com/$1 [R=301,L]
+RewriteRule ^([^.]+)\.html$ https://alexander-makhov.github.io/trail/$1 [R=301,L]
 RewriteCond %{REQUEST_URI} !(\.[^./]+)$
 RewriteCond %{REQUEST_fileNAME} !-d
 RewriteCond %{REQUEST_fileNAME} !-f
